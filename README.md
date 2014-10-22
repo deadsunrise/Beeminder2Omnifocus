@@ -16,7 +16,9 @@ Put your beeminder token in a dot file in your home folder. Get it from here: ht
 ###Install gems + Otask
 
 `  cd Beeminder2Omnifocus
+
   bundle install 
+
   gem install Otask`
 
 ##Use
